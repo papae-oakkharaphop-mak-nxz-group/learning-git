@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Chapter 5
 Edit 1
+=======
+Chapter 5 but in approach B Update Again
+>>>>>>> chapter_five_approach_b
